@@ -5,3 +5,7 @@ Pasta
 Maggie
 French Fries
 Pizza
+
+
+Beans
+Kheer
